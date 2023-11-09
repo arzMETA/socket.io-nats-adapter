@@ -44,3 +44,6 @@ $ npm test
 
 Nats 아키텍처 모음
 https://github.com/nats-io/nats-architecture-and-design
+
+타 메시징 시스템들과의 비교
+![image](https://github.com/arzMETA/socket.io-nats-adapter/assets/64263207/2aec0424-13eb-4c3b-909f-080e920946c9)
