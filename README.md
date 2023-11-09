@@ -41,3 +41,6 @@ $ npm test
 ```
 
 레퍼런스 : 채널톡
+
+Nats 아키텍처 모음
+https://github.com/nats-io/nats-architecture-and-design
