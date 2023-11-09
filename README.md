@@ -39,3 +39,5 @@ $ npm start
 ```shell
 $ npm test
 ```
+
+레퍼런스 : 채널톡
